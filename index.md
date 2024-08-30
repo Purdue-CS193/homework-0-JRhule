@@ -1,4 +1,4 @@
-# **\JRhule\'s First CS193 Homework**
+# **JRhule's First CS193 Homework**
 
 - I like that the homework is easy
 - I like that I learn more from the TAs than the actual professors
