@@ -4,4 +4,5 @@
 - I like that I learn more from the TAs than the actual professors
 - I like that it's only once a week
 
-![Image](https://images.theconversation.com/files/38926/original/5cwx89t4-1389586191.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=926&fit=clip)
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFmaTAxdDBlbjhwaDFjdmk3eWI5djJyam12b3ZuaG16Ym03ZWxmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.webp)
+
